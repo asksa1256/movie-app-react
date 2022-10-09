@@ -7,7 +7,7 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.1.2",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^2.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -17,7 +17,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "deploy": "gh-pages -d build",
-    "predeploy": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
@@ -39,5 +38,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://asksa1256.github.io/react_movie_app"
+  "homepage": "https://asksa1256.github.io/movie-app-react"
 }
